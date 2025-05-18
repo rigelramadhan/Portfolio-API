@@ -1,7 +1,7 @@
-package core;
+package com.rigeldev.api.core;
 
-import model.Request;
-import model.Response;
+import com.rigeldev.api.model.Request;
+import com.rigeldev.api.model.Response;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,8 +1,10 @@
+package com.rigeldev.api;
+
 import com.google.gson.Gson;
-import model.Request;
-import model.Response;
-import core.Router;
-import model.ApiResponse;
+import com.rigeldev.api.core.Router;
+import com.rigeldev.api.model.ApiResponse;
+import com.rigeldev.api.model.Request;
+import com.rigeldev.api.model.Response;
 
 import java.io.*;
 import java.net.ServerSocket;

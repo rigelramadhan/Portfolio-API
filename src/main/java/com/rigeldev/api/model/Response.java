@@ -1,4 +1,4 @@
-package model;
+package com.rigeldev.api.model;
 
 import java.io.OutputStream;
 import java.io.OutputStreamWriter;

@@ -1,4 +1,4 @@
-package model;
+package com.rigeldev.api.model;
 
 public class Request {
     public final String method;
